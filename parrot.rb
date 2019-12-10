@@ -4,4 +4,4 @@ def parrot(says="Squak!")
   puts says
   return says
 end
-  
+  parrot
